@@ -15,16 +15,16 @@ Builds a bowtie index from a reference sequence
 input
 :    Input fasta file for the bowtie database
 
-     *type:* set<br>
-     *category:* input<br>
-     *optional:* no
+     - *type:* set<br>
+     - *category:* input<br>
+     - *optional:* no
 
 output
 :    database name to create
 
-     *type:* single<br>
-     *category:* output<br>
-     *optional:* no
+     - *type:* single<br>
+     - *category:* output<br>
+     - *optional:* no
 
 
 
@@ -33,8 +33,8 @@ output
 extra_params
 :    any option parameters
 
-     *type: *string<br>
-       optional:yes
+     - *type:*string<br>
+     - optional:yes
 
 
 
@@ -43,8 +43,8 @@ extra_params
 extra_params
 :    any option parameters
 
-     *type: *string<br>
-       optional:yes
+     - *type:*string<br>
+     - optional:yes
 
 
 
