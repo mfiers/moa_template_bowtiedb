@@ -1,4 +1,4 @@
-Moa template "bowtiedb"
+Moa template: "bowtiedb"
 
 Copyright 2012 Mark Fiers
 
