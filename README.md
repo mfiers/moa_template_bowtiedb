@@ -1,14 +1,12 @@
-
 Moa template "bowtiedb"
 
 Copyright 2012 Mark Fiers
+
 This software is under the gplv3 license, please see "COPYING" for details
-
-
 
 ### Description
 
-Builds a bowtie index from a reference sequence
+This template builds a bowtie index from a reference sequence.
 
 ### Filesets
 
